@@ -1,0 +1,21 @@
+sudo update-grub #to get update 
+sudo nano /etc/default/grub #to get into grub menu
+sudo su #act as administrator
+
+"""
+#For nano
+ctrl+o #save
+ctrl+x #exit
+"""
+
+#must need use update command after any changes
+
+"""
+#Install GRUB Themes From GitHub
+$ git clone https://github.com/vinceliuice/grub2-themes.git
+$ cd grub2-themes/
+$ sudo ./install.sh
+"""
+
+https://youtu.be/REZS35S3L_Y  # change windows as default boot option
+https://youtu.be/dOfqODvLVZo  #for kali install
